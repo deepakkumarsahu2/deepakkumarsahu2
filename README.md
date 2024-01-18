@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 👨‍💻 All of my projects are available at [https://portfolio-dpk.netlify.app/](https://portfolio-dpk.netlify.app/)
 
